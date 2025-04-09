@@ -138,6 +138,6 @@ This project is a custom-built RC plane controlled via Arduino UNO microcontroll
 
 Check out **photos and a demo video** of our RC Plane in action:
 
-🔗 [View Media Folder on Google Drive]((https://drive.google.com/drive/folders/1p52yfGMgNG2yOnZ-6FqaJbEAEQVLFnDp?usp=sharing))
+🔗 [View Media Folder on Google Drive](https://drive.google.com/drive/folders/1p52yfGMgNG2yOnZ-6FqaJbEAEQVLFnDp?usp=sharing)
 
 ---
